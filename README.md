@@ -53,7 +53,9 @@ Screenshots of our Application
 
 Remember:
 •	Ensure you have an internet connection for the application to function properly.
+
 •	The specific layout and elements of the GUI window might vary slightly depending on the application you're using.
+
 •	While the provided code offers heat map functionality, it's currently limited. Explore the application itself to see what heat map options are available.
 
 
