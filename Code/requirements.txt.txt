@@ -3,6 +3,7 @@ matplotlib==3.6.0
 pytz==2022.6
 folium==0.13.0
 geopy==2.2.0
+h3 & build c++ tools
 timezonefinder==5.2.0
 tk==0.1.0
 Pillow==9.2.0
