@@ -1,8 +1,5 @@
                                             Weather Forecaster-Urban Heat Mitigation 
-K. Doondi                                      D. Geeta Gayathri                               Naved Abbas
-II BCA-2,                                            II BCA-2,                                          II BCA-2,
-KBN College,                                   KBN College,                                  KBN College,
-Vijayawada                                        Vijayawada                                    Vijayawada
+
 Abstract:
 This application, titled "Weather Forecaster," empowers users to effortlessly access detailed weather forecasts and visualize key weather data for any location. It leverages the OpenWeatherMap API and Python libraries to deliver an interactive and informative experience. Users can readily retrieve temperature, humidity, wind speed, rainfall, sunrise/sunset times, and a visual heat map for a chosen city.
 Keywords: Weather forecast, OpenWeatherMap API, Python, Tkinter, visualization, heat map, user-friendly
@@ -27,6 +24,8 @@ System Requirements:
 •	Required libraries: 
 o	requests
 o	matplotlib
+o h3 & build c++ tools
+o timezonefinder
 o	folium
 o	geopy
 o	pytz
@@ -49,7 +48,13 @@ o	Uses Tkinter to construct a user-friendly interface.
 o	Consists of entry fields, buttons, and display areas.
 Conclusion:
 "Weather Forecaster" effectively addresses the need for a user-centric, comprehensive, and visually appealing weather information platform. Its strengths lie in its ease of use, rich data presentation, and flexibility for diverse use cases. By leveraging the OpenWeatherMap API and various Python libraries, this application empowers users with tailored weather insights within their fingertips.
-Screenshots of our Application  
+Screenshots of our Application
+Remember:
+•	Ensure you have an internet connection for the application to function properly.
+•	The specific layout and elements of the GUI window might vary slightly depending on the application you're using.
+•	While the provided code offers heat map functionality, it's currently limited. Explore the application itself to see what heat map options are available.
+
+
  
 
 
