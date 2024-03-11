@@ -46,9 +46,11 @@ o	Presents temperature, humidity, wind speed, and rainfall data visually.
 4.	GUI Module: 
 o	Uses Tkinter to construct a user-friendly interface.
 o	Consists of entry fields, buttons, and display areas.
+
 Conclusion:
 "Weather Forecaster" effectively addresses the need for a user-centric, comprehensive, and visually appealing weather information platform. Its strengths lie in its ease of use, rich data presentation, and flexibility for diverse use cases. By leveraging the OpenWeatherMap API and various Python libraries, this application empowers users with tailored weather insights within their fingertips.
 Screenshots of our Application
+
 Remember:
 •	Ensure you have an internet connection for the application to function properly.
 •	The specific layout and elements of the GUI window might vary slightly depending on the application you're using.
