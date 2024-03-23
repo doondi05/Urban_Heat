@@ -177,7 +177,7 @@ def display_heat_map(city):
         messagebox.showerror("Error", f"Failed to display heat map: {str(e)}")
 
 def open_website():
-    webbrowser.open("https://www.create.xyz/app/7f951d74-8eee-47c8-b186-67bab744100c")
+    webbrowser.open("https://uheat.created.app/uhmd")
 
 def main():
     root = tk.Tk()
